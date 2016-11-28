@@ -4,9 +4,7 @@ import model.accounts.User;
 
 import java.time.LocalDateTime;
 
-/**
- * The class of messages that users send to each other.
- */
+
 public class Message {
     private Long id;
     private User sender;

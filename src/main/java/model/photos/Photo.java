@@ -4,9 +4,7 @@ import model.accounts.User;
 
 import java.time.LocalDateTime;
 
-/**
- * The class user's photos.
- */
+
 public class Photo {
     private Long id;
     private String type;

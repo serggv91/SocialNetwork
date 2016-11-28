@@ -6,9 +6,6 @@ import model.photos.Photo;
 import java.time.LocalDate;
 import java.util.List;
 
-/**
- * The class represents a user of the social network.
- */
 
 public class User {
     private Long id;
